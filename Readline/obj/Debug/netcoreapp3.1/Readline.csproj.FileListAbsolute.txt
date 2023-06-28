@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\Readline\Readline\bin\Debug\netcoreapp3.1\Readline.exe
+C:\Users\Aydan\Desktop\Readline\Readline\bin\Debug\netcoreapp3.1\Readline.deps.json
+C:\Users\Aydan\Desktop\Readline\Readline\bin\Debug\netcoreapp3.1\Readline.runtimeconfig.json
+C:\Users\Aydan\Desktop\Readline\Readline\bin\Debug\netcoreapp3.1\Readline.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\Readline\Readline\bin\Debug\netcoreapp3.1\Readline.dll
+C:\Users\Aydan\Desktop\Readline\Readline\bin\Debug\netcoreapp3.1\Readline.pdb
+C:\Users\Aydan\Desktop\Readline\Readline\obj\Debug\netcoreapp3.1\Readline.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\Readline\Readline\obj\Debug\netcoreapp3.1\Readline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\Readline\Readline\obj\Debug\netcoreapp3.1\Readline.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\Readline\Readline\obj\Debug\netcoreapp3.1\Readline.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\Readline\Readline\obj\Debug\netcoreapp3.1\Readline.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\Readline\Readline\obj\Debug\netcoreapp3.1\Readline.dll
+C:\Users\Aydan\Desktop\Readline\Readline\obj\Debug\netcoreapp3.1\Readline.pdb
+C:\Users\Aydan\Desktop\Readline\Readline\obj\Debug\netcoreapp3.1\Readline.genruntimeconfig.cache
